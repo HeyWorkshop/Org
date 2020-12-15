@@ -1,10 +1,5 @@
 ![Texto alternativo](/resources/header.png)
 ## ¿Qué es workshop?
-
-
-
-
-
 Workshop es una organización centrada en crear conexiones entre personas y oportunidades de crecimiento académico y profesional, desarrollando actividades con la ayuda de empresas de tecnología, instituciones académicas y estudiantes.
 
 Workshop es resultado de la participación de muchas generaciones que han contribuido al proyecto para formar una organización capaz de desarrollar programas para y para estudiantes, buscando generar un espacio en el que las personas proactivas puedan obtener experiencias significativas que les servirán en su vida personal y profesional. 
@@ -54,5 +49,29 @@ Workshop como organización realiza eventos sociales, gestiona recursos tanto fi
 Colaboramos frecuentementre con organizaciones y comuninadaes que requieran el apoyo de Workshop. Y reclutamos personan que quieran colaborar con la organización, o alguno de sus proyectos.
 
 ## Materiales
-
 Nuestros materiales y recursos utilizados en talleres y eventos previos se encuentran en: [Workshop Materiales](https://github.com/WorkshopTechnology/Materiales).
+
+## Preguntas frecuentes 
+- **¿Cómo puedo ser parte de workshop?**
+        
+  Workshop abre una convocatoria para formar parte de la organización de forma anual y completando el proceso de selección podrás formar parte de Workshop. Te invitamos a contactarnos por cualquiera de nuestros medios (Facebook o Correo) para considerar un proceso de selección fuera de fechas indicadas pero manteniendo el rigor. 
+
+- **¿Dónde puedo encontrar los cursos de workshop?**
+  
+  Nuestros cursos se encuentran todos dentro de nuestros repositorios de Github. Tanto pláticas, como talleres y cursos los podrás encontrar en nuestra [página de github.](https://github.com/WorkshopTechnology). A partir de la organización 2020 en adelante. Nuestras sesiones son en vivo y estarán guardas en nuestra [página de facebook](https://www.facebook.com/workshoptech) 
+
+- **¿Cómo puedo asistir a los cursos de workshop?**
+
+    Todas nuestras sesiones son difundidas por medio de nuestra [página de facebook](https://www.facebook.com/workshoptech) y se les informa por qué medio será dicha sesión.
+
+- **¿Cómo puedo entrar al programa de internships?**
+
+    Workshop abre una convocatoria para participar en el proceso de selección de ***Internship***, el cual consta de una sesión de entrevista y una entrevista técnica. Una vez que los resultados del proceso se publican y sales seleccionado. ya formarás parte del programa de Internship
+
+- **¿Puedo entrar al programa de internships desde primer semestre?**
+
+    Uno de los principales objetivos de la visión de Workshop es la detección de talento y proactividad desde los primeros años de estudio y vincularlos en la industria del Software lo más pronto posible. 
+
+- **¿Hay un límite de veces para entrar al internship?**
+
+    Workshop ofrece 2 participaciones en el programa de Internship por persona.
