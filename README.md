@@ -1,4 +1,4 @@
-![Texto alternativo](/resources/header.png)
+![Logo de workshop](/resources/header.png)
 ## ¿Qué es workshop?
 Workshop es una organización centrada en crear conexiones entre personas y oportunidades de crecimiento académico y profesional, desarrollando actividades con la ayuda de empresas de tecnología, instituciones académicas y estudiantes.
 
@@ -75,3 +75,4 @@ Nuestros materiales y recursos utilizados en talleres y eventos previos se encue
 - **¿Hay un límite de veces para entrar al internship?**
 
     Workshop ofrece 2 participaciones en el programa de Internship por persona.
+
