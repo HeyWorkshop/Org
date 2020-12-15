@@ -17,3 +17,4 @@ Colaboramos frecuentementre con organizaciones y comuninadaes que requieran el a
 
 ## Materiales
 
+Nuestros materiales y recursos utilizados en talleres y eventos previos se encuentran en: [Workshop Materiales](https://github.com/WorkshopTechnology/Materiales).
