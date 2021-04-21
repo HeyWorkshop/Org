@@ -1,4 +1,6 @@
-![Logo de workshop](/resources/head.png)
+<p align="center">
+    <img align="center" src="https://github.com/HeyWorkshop/Org/blob/main/resources/head.png" alt="linkedin" height="200px" />
+</p>
 
 ## ¿Qué es workshop?
 
