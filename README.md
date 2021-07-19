@@ -55,7 +55,7 @@ Colaboramos frecuentementre con organizaciones y comuninadaes que requieran el a
 
 ## Materiales
 
-Nuestros materiales y recursos utilizados en talleres y eventos previos se encuentran en: [Workshop Materiales](https://github.com/WorkshopTechnology/Materiales).
+Nuestros materiales y recursos utilizados en talleres y eventos previos se encuentran en: [Workshop Materiales](https://github.com/HeyWorkshop/Materiales).
 
 ## Preguntas frecuentes
 
@@ -65,7 +65,7 @@ Nuestros materiales y recursos utilizados en talleres y eventos previos se encue
 
 - **¿Dónde puedo encontrar los cursos de workshop?**
 
-  Nuestros cursos se encuentran todos dentro de nuestros repositorios de Github. Tanto pláticas, como talleres y cursos los podrás encontrar en nuestra [página de github.](https://github.com/WorkshopTechnology). A partir de la organización 2020 en adelante. Nuestras sesiones son en vivo y estarán guardas en nuestra [página de facebook](https://www.facebook.com/workshoptech)
+  Nuestros cursos se encuentran todos dentro de nuestros repositorios de Github. Tanto pláticas, como talleres y cursos los podrás encontrar en nuestra [página de github.](https://github.com/HeyWorkshop). A partir de la organización 2020 en adelante. Nuestras sesiones son en vivo y estarán guardas en nuestra [página de facebook](https://www.facebook.com/workshoptech)
 
 - **¿Cómo puedo asistir a los cursos de workshop?**
 
