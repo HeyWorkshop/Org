@@ -82,3 +82,54 @@ Nuestros materiales y recursos utilizados en talleres y eventos previos se encue
 - **¿Hay un límite de veces para entrar al internship?**
 
   Workshop ofrece 2 participaciones en el programa de Internship por persona.
+  
+## Código de conducta
+
+Nuestra organización se compromete a seguir construyendo una comunidad transparente, basada en el respeto e interés por ayudar en el crecimiento y superación personal.
+
+La base de nuestro código de conducta es el respeto y la sana convivencia, buscando siempre un ambiente de confianza  y motivación que potencie las diferentes habilidades de cada uno.
+
+Los miembros de la organización se comprometen en aplicar dicho código siempre, sin excepciones, generando de esta manera el respeto, ante todo y por parte de todos.
+
+### Seguimiento.
+
+Nuestro código de conducta aplica en todos los ambientes y escenarios en los que la organización se encuentre presente, tales como: Atención en las redes sociales, pláticas y/o talleres en transmisión, publicaciones, eventos en los que participe y cualquier intervención.
+
+### Validación.
+
+Todos los miembros de los diferentes equipos de nuestra organización se comprometen a respetar y cumplir al pie de la letra nuestro código de conducta. 
+Dado que no se tendrá tolerancia ni al más mínimo acto que vaya en contra con la ética establecida, a la primera situación en la que algún miembro infrinja el código será sancionado o expulsado de la organización si así se requiriese.
+
+### Principios para un ambiente de confianza y sana convivencia.
+
+Dado que la base de nuestra convivencia en comunidad es el respeto, es indispensable que los miembros de cada uno de nuestros equipos:
+
+- Hagan sentir a la comunidad parte de nosotros al tomar en cuenta sus comentarios y aspectos en los cuales podemos mejorar.
+- Brinden siempre la mejor actitud de ellos mismos hacia la comunidad.
+- Se dirijan siempre de manera respetuosa e inclusiva hacia los demás.
+- Se Concentren en potenciar las habilidades de todos para crecer juntos y de esta manera lograr cosas más grandes.
+- Se mantengan proactivos para brindar ayuda a quienes lo necesiten y aportar nuevas ideas.
+- Se enfoquen en comunicar cualquier situación para que no surjan malentendidos y siempre logremos progresar.
+
+### Nuestra posición para la prevención de cualquier abuso.
+
+Previamente se mencionó que nuestra organización no tolera ni la más mínima conducta de abuso hacia nuestra comunidad, tales como:
+
+- Comentarios ofensivos de cualquier tipo que puedan atentar la integridad de cualquier individuo de nuestra comunidad.
+- Conductas y/o actitudes de rechazo ante cualquier persona.
+- El uso de palabras altisonantes en cualquier medio de comunicación en el que se desarrolle la organización.
+- Situaciones de acoso y amenazas tales como: difusión de contenido, spam, incitaciones de odio, contenido sexual, solicitar información privada, hostigamiento y cualquier situación que atente contra la integridad de la comunidad.
+
+Cabe destacar que lo que previamente se mencionó son ejemplos de casos en los que se pueda ver afectada la integridad de nuestra comunidad. El hecho de que alguna situación en particular no se encuentre en la lista no significa que esté absuelta de las consecuencias. Reiteramos que como organización no permitimos ningún caso o actitud de abuso.
+
+### ¿Cómo reportar alguna violación a nuestro código de conducta?
+
+Si has sido víctima de alguna situación de abuso por parte de algún miembro de la organización, envíanos un correo: [holaworkshoptech@gmail.com](holaworkshoptech@gmail.com) y te responderemos en la brevedad posible respetando el anonimato y tratando la circunstancia con la debida seriedad.
+
+Este código de conducta aplica para cualquier ambiente en donde se desempeñe la comunidad, sin embargo, si hubiese alguna situación desarrollada en otro ambiente en la que algún miembro de la organización tenga una ética opuesta a la que desempeña con nosotros, de igual forma nos gustaría saber y el reporte de igual manera será aceptado.
+
+### Validación de nuestro código.
+
+Los miembros de nuestro equipo central se encargará de tomar las medidas necesarias ante las diferentes situaciones, si el individuo involucrado se encuentra dentro del equipo no participará en el caso.
+
+El anonimato se mantiene en todo momento para formar un ambiente de respeto. Los casos reportados se tratarán en la brevedad posible, debido a que como organización la integridad de cada uno de nuestros miembros y de nuestra comunidad, es primordial.
