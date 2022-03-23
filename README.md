@@ -29,9 +29,10 @@ Workshop no podría funcionar sin la ayuda de varias personas, ya que este proye
 
 Workshop tiene una **organización interna** modular, lo que se traduce en que el equipo crece conforme las actividades lo hacen. Este documento será modificado conforme la organización lo necesite. A la fecha de última modificación, Workshop se compone de 3 equipos de trabajo:
 
-- **Junta Directiva.**
-- **Equipo de Comunicación.**
+- **Equipo Central.**
+- **Equipo de Contenido.**
 - **Equipo de Eventos.**
+- **Equipo de Dearrollo.**
 
 ## Roles
 
